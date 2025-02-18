@@ -2,7 +2,7 @@ import openai
 import os
 
 # Set your OpenAI API key (replace with your actual key)
-openai.api_key = "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"
+openai.api_key = ""
 
 def chat_with_openai(prompt):
     """Generates a response using OpenAI GPT model"""
