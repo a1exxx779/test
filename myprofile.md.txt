@@ -1,0 +1,7 @@
+```hcl
+resource "spaceship_crew_member" "bogdan_iscru" {
+  name        = "Bogdan Iscru"
+  experience  = "30 years"
+  specialty   = "IT Support"
+}
+```
