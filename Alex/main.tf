@@ -5,4 +5,3 @@ resource "azurerm_resource_group" "claudiu" {
     owner = "alexandru.berbecaru1@rblogin.net"
   }
 }
-}
